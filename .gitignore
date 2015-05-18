@@ -1,0 +1,4 @@
+cache/
+dist/
+vendor/
+composer.lock
