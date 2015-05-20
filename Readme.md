@@ -6,9 +6,15 @@ This is a small PHP script that generates a
 zip file for the Microsoft shuttles.  All information is gathered from the
 publicly-accessible [msshuttle.mobi](https://msshuttle.mobi/) website.
 
+Demo/Sample
+-----------
+Pre-built GTFS bundles can be found in the [Releases](https://github.com/cookieguru/microsoft-gtfs/releases)
+section of this repository.
+
 Requirements
 ------------
-PHP 5.4+
+PHP 5.4+ and [Composer](https://getcomposer.org/).  If you can't install
+Composer, follow the steps to [Run without Composer](https://github.com/cookieguru/microsoft-gtfs/wiki/Running-without-Composer)
 
 Installation
 ------------
